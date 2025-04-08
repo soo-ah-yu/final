@@ -42,7 +42,7 @@ INSERT INTO ThiDau (MaDoi, NgayThiDau, HieuSo, KetQua) VALUES
 ('C1', '2005-05-19', 1, 1),
 ('C2', '2004-10-30', 2, 0);
 
-thidauINSERT INTO Penelty (MaPhat, MaCT, NgayPhat, SoLanPhat, TienPhat, LoaiThe) VALUES
+INSERT INTO Penelty (MaPhat, MaCT, NgayPhat, SoLanPhat, TienPhat, LoaiThe) VALUES
 ('P1', '01', '2004-12-22', 2, 250000, 'V'),
 ('P2', '01', '2005-08-19', 1, 450000, 'D'),
 ('P3', '02', '2005-10-10', 2, 250000, 'V'),
